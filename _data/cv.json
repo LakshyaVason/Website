@@ -1,152 +1,169 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Lakshya Vason",
+    "email": "lakshya_v@tamu.edu",
+    "phone": "979-344-1437",
+    "website": "http://people.tamu.edu/~lakshya_v",
+    "summary": "Quantum computing, sensing, and photonics enthusiast with hands-on experience in semiconductor fabrication, drone systems, and academic leadership. Honors Electrical Engineering student with a Computer Science minor.",
     "location": {
       "address": "",
-      "postalCode": "",
-      "city": "Earth",
+      "postalCode": "77840",
+      "city": "College Station",
       "countryCode": "US",
-      "region": ""
+      "region": "TX"
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=LakshyaGSID"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "url": "http://orcid.org/0000-0000-0000-0000"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "LakshyaVason",
+        "url": "https://github.com/LakshyaVason"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "lakshya-vason",
+        "url": "https://linkedin.com/in/lakshya-vason"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "name": "Environmental Fluid Dynamics Lab, TAMU",
+      "position": "Undergraduate Researcher",
+      "startDate": "2025-01",
+      "endDate": "",
+      "summary": "Analyze ocean surface dynamics from drone footage and contribute to RESTORE initiative.",
+      "highlights": [
+        "Processed 100+ drone videos using wave detection tools",
+        "Built and programmed autonomous quadcopter drone",
+        "Supported $1M coastal monitoring research"
+      ]
+    },
+    {
+      "name": "AggieFab Nanofabrication Facility",
+      "position": "Student Technician",
+      "startDate": "2024-05",
+      "endDate": "",
+      "summary": "Supported SPC diagnostics and trained researchers on nanofab tools.",
+      "highlights": [
+        "Generated 15+ SPC charts weekly",
+        "Trained 20+ users on lithography and etching tools"
+      ]
+    },
+    {
+      "name": "ASTRO Center, TAMU",
+      "position": "Undergraduate Researcher",
+      "startDate": "2024-01",
+      "endDate": "2024-05",
+      "summary": "Improved lunar rover simulations using NASA models.",
+      "highlights": [
+        "Achieved 90%+ accuracy in Koala Moon Bot navigation"
+      ]
+    },
+    {
+      "name": "Engineering Academic & Student Affairs",
+      "position": "Peer Teacher (ENGR 102)",
+      "startDate": "2023-08",
+      "endDate": "2023-12",
+      "summary": "Graded and mentored 100+ students in introductory programming.",
+      "highlights": [
+        "Led review sessions for 60+ students",
+        "Streamlined instructional tools for freshmen"
+      ]
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "institution": "Texas A&M University",
+      "area": "Electrical Engineering (Honors)",
+      "studyType": "Bachelor of Science",
+      "startDate": "2022-08",
+      "endDate": "2026-05",
+      "gpa": 3.737,
+      "courses": [
+        "Microprocessor System Design",
+        "Digital Integrated Circuits",
+        "Semiconductors",
+        "Data Structures & Algorithms"
+      ]
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "keywords": ["Python", "MATLAB", "C", "C++", "JavaScript", "PHP", "HTML", "CSS"]
+    },
+    {
+      "name": "Hardware/Tools",
+      "keywords": ["Verilog", "SPICE", "Multisim", "ARM", "AutoCAD", "Xilinx", "Revit"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Proficient"
+    },
+    {
+      "language": "German",
+      "fluency": "Proficient"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Proficient"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Sports",
+      "keywords": ["Soccer", "Swimming", "Running", "Mountain Climbing"]
+    },
+    {
+      "name": "Music",
+      "keywords": ["Church Choir", "Community Performances"]
+    }
+  ],
   "references": [],
-  "publications": [
-    {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
-  ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
+  "publications": [],
+  "presentations": [],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "course": "ENGR 102: Introduction to Programming",
+      "institution": "Texas A&M University",
+      "date": "2023-08",
+      "role": "Peer Teacher",
+      "description": "Graded assignments, mentored students, and developed review sessions."
     }
   ],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
+      "name": "SensorCath",
+      "category": "Medical Hardware",
+      "date": "2023-12",
       "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "description": "Radiation detection prototype improving surgical safety by 70%. First place at Aggies Invent."
+    },
+    {
+      "name": "Koala Moon Bot",
+      "category": "Lunar Robotics",
+      "date": "2024-05",
+      "url": "",
+      "description": "Integrated sensor system enabling high-accuracy navigation in lunar exploration simulations."
+    },
+    {
+      "name": "SEC Alumni Hub",
+      "category": "Database System",
+      "date": "2025-04",
+      "url": "",
+      "description": "Developed secure admin functionality for a MongoDB-driven MERN stack alumni platform."
     }
   ]
 }
